@@ -22,7 +22,7 @@ def fibForReal():
 #include<stdlib.h>
 
 // int someFib(int num) {
- for (int i=1; i<)
+ for (int i=1; i< num; i++)
 //
   // return num;
 //}
